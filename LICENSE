@@ -1,0 +1,33 @@
+Bangstick Proprietary License Notice
+Version 1.0 — 2026-10-24
+
+Copyright (c) 2026 Bangsfactory and the respective rights holders.
+All rights reserved in Bangsfactory's original contributions.
+
+Bangstick is proprietary software, not an open-source project. Public access
+to this distribution repository does not grant an open-source license.
+
+Permission to install, run and use an official Bangstick distribution is
+granted only as described in EULA.md. Except as expressly permitted there,
+by a separate written authorization from the relevant rights holder, or by
+applicable law, no permission is granted to copy, modify, distribute,
+sublicense, sell, rent, or create derivative works of the proprietary
+software or other proprietary materials in this repository.
+
+This notice does not override third-party or open-source licenses, rights
+previously granted under those licenses, mandatory legal exceptions, or
+rights granted under GitHub's applicable terms, including viewing and
+forking a public repository. Those rights do not by themselves grant a
+license to distribute or sell the proprietary Bangstick application.
+
+Third-party components remain the property of their respective owners and
+are governed by their own licenses. See THIRD_PARTY_NOTICES.md and the
+notices supplied with the applicable release. User-created apps and content
+are not relicensed under this notice merely because they use Bangstick.
+
+No trademark license is granted except as necessary to identify the product
+truthfully and as permitted by law. All rights not expressly granted are
+reserved by their respective holders.
+
+Official website: https://bangstick.space/
+Official distribution repository: https://github.com/Bangsfactory/bangstick
