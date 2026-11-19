@@ -5,7 +5,7 @@ Build apps. Work with AI.
 
 Bangstick is a Windows workspace that brings AI agents, a browser, files, and creative tools together on your computer. Connect local models, external AI services, or CLI agents and work with them in the same environment.
 
-[Website](https://bangstick.space/) · [Download for Windows](https://github.com/Bangsfactory/bangstick/releases/latest) · [Watch the demo](https://www.youtube.com/watch?v=HkWL2XxfNn0)
+[Website](https://bangstick.space/)
 
 ## One workspace for AI and apps
 
