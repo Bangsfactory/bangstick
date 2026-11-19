@@ -40,12 +40,6 @@ For version-specific download details, see the release notes. Each release also 
 
 Available tools and behavior depend on the selected model, connection, installed apps, and permissions. External services use their own network connections; choosing a local model does not make every workspace feature offline.
 
-## Why Bangstick exists
-
-Bangstick grew out of a game developer's attempt to make local AI useful for everyday work. The goal is to keep AI work, files, and tools together on one computer, with a shared interface that agents can use to carry out real tasks.
-
-The project evolved from experiments with hierarchical coding agents and task graphs into a workspace focused on using apps, making things, and continuing work across different AI connections.
-
 ## About this repository
 
 This is the official repository for Bangstick's product information, Windows releases, and update notices. It does not contain the proprietary application source code or account and server operations data. Third-party source archives supplied with releases are described in each release's `SOURCE-DELIVERY.md`.
